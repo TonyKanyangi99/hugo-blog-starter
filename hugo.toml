@@ -1,11 +1,11 @@
-baseURL = 'https://x-s-singularity-notes.vercel.app/'
+baseURL = 'https://hub7.pages.dev/'
 languageCode = 'en-us'
 title = "X's Singularity Notes"
 theme = "PaperMod"
 
 [params]
     env = "production"
-    title = "X's Singularity Notes"
+    title = "Hub7"
     description = "Notes from the event horizon of thought."
     author = "X"
     
