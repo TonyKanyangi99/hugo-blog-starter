@@ -4,6 +4,7 @@ title: "GTA 6 Could Underperform Even If It Sells Tens of Millions"
 date: 2026-11-10
 author: "L. K."
 description: "A deep dive into upcoming releases."
+draft: false
 ---
 
 GTA 6 is not necessarily headed for a bomb, but it could significantly underperform, even with the tens of millions of copies the game is expected to sell. Its massive production and marketing budgets mean it could still miss financial expectations without technically being a flop.
