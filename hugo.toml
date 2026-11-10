@@ -1,6 +1,6 @@
 baseURL = 'https://hub7.pages.dev/'
 languageCode = 'en-us'
-title = "X's Singularity Notes"
+title = "Hub7"
 theme = "PaperMod"
 
 [params]
