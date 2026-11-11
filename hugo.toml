@@ -9,7 +9,7 @@ theme = "PaperMod"
     description = "Notes from the event horizon of thought."
     author = "X"
     
-    defaultTheme = "dark"
+    defaultTheme = "light"
     disableThemeToggle = true
     DateFormat = "2006/01/02 15:04"
     ShowReadingTime = true
@@ -24,7 +24,7 @@ theme = "PaperMod"
 [menu]
     [[menu.main]]
         identifier = "posts"
-        name = "ARTICLES"
+        name = "Articles"
         url = "/posts/"
         weight = 10
     [[menu.main]]
